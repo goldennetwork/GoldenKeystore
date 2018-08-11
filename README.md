@@ -58,3 +58,7 @@ let keys = GoldenKeystore.createHDKeyPairs(
   to: 50
 )
 ```
+
+## License
+
+GoldenKeystore is released under the MIT license.
