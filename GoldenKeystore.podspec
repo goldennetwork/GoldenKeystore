@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.swift_version = '4.1'
   s.source_files = '*.swift'
-  s.dependency 'TrezorCrypto', '~> 0.0.6'
+  s.dependency 'TrezorCrypto', '0.0.6'
 end
