@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'GoldenKeystore'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'A Swift library for generating BIP32, BIP39 key pairs'
 
   s.homepage         = 'https://github.com/goldennetwork/GoldenKeystore'
